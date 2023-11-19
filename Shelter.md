@@ -1,5 +1,5 @@
 # Panduan Bertahan: Membuat Shelter 🏡
-<span style="background-color: yellow;">This text has a yellow background.</span>
+<span style="background-color: ##F6FFF7;">This text has a yellow background.</span>
 
 Selamat datang di *Panduan Bertahan*! Dalam situasi darurat atau petualangan alam, kemampuan untuk membuat shelter yang efektif dapat menjadi keterampilan kunci. Berikut adalah panduan sederhana untuk membantu Anda membuat tempat perlindungan yang aman.
 
