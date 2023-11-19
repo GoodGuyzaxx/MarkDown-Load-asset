@@ -1,6 +1,6 @@
-# Panduan Bertahan: Membuat Shelter 🏡
-<span style="background-color: #F6FFF7">This text has a yellow background.</span>
 
+<span style="background-color: #F6FFF7">
+# Panduan Bertahan: Membuat Shelter 🏡
 Selamat datang di *Panduan Bertahan*! Dalam situasi darurat atau petualangan alam, kemampuan untuk membuat shelter yang efektif dapat menjadi keterampilan kunci. Berikut adalah panduan sederhana untuk membantu Anda membuat tempat perlindungan yang aman.
 
 ### 1. Lokasi yang Bijak
@@ -48,3 +48,5 @@ Identifikasi bahan-bahan yang dapat Anda gunakan:
 - Jangan ragu untuk mencari tempat perlindungan lebih baik jika diperlukan.
 
 Ingat, keamanan dan pemahaman lingkungan sekitar sangat penting. Selalu pertimbangkan kondisi cuaca dan faktor-faktor lain yang dapat memengaruhi keberhasilan shelter Anda. Semoga panduan ini bermanfaat untuk Anda dalam menciptakan tempat perlindungan sederhana namun efektif di alam terbuka. Selamat mencoba dan tetap aman!
+
+</span>
