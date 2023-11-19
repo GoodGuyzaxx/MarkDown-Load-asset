@@ -1,5 +1,6 @@
 
 <span style="background-color: #F6FFF7">
+  
 # Panduan Bertahan: Membuat Shelter 🏡
 Selamat datang di *Panduan Bertahan*! Dalam situasi darurat atau petualangan alam, kemampuan untuk membuat shelter yang efektif dapat menjadi keterampilan kunci. Berikut adalah panduan sederhana untuk membantu Anda membuat tempat perlindungan yang aman.
 
