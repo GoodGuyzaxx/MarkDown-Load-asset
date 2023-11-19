@@ -16,6 +16,10 @@ Identifikasi bahan-bahan yang dapat Anda gunakan:
 - **Dahan dan Daun**: Gunakan untuk membuat atap atau dinding.
 - **Bambu atau Cabang**: Untuk struktur dasar shelter.
 - **Rumput atau Daun Kering**: Sebagai isolasi di antara dinding dan atap.
+![medical-kit](https://github.com/GoodGuyzaxx/MarkDown-Load-asset/assets/46391302/242de86a-7d23-423d-bd12-40ffd3f47aa4)
+
+
+
 
 ### 3. Struktur Dasar Shelter
 
